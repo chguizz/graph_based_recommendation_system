@@ -1,8 +1,12 @@
 
-dataset.zip
+data/dataset.zip
+
+data/graph.edgelist
 
 project_proposal.docx
 
 project_proposal.pdf
 
 .ipynb_checkpoints/
+
+graph_features.edgelist
