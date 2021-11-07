@@ -9,4 +9,5 @@ Recommender systems are really well spread nowadays in web services such as Yout
 - [X] data exploration  
 - [X] centrality metrics  
 - [X] GNN base model
-- [ ] GNN, different hyperparameters
+- [X] GNN, different hyperparameters
+- [ ] report
