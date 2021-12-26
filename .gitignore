@@ -10,3 +10,9 @@ project_proposal.pdf
 .ipynb_checkpoints/
 
 graph_features.edgelist
+
+report/
+
+DataExploration.ipynb
+
+VisualisationLinkP.ipynb

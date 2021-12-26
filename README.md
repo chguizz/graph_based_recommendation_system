@@ -10,4 +10,5 @@ Recommender systems are really well spread nowadays in web services such as Yout
 - [X] centrality metrics  
 - [X] GNN base model
 - [X] GNN, different hyperparameters
+- [X] Node2Vec
 - [ ] report
