@@ -29,4 +29,6 @@ When the user has reached a minimum number of user-item interactions, then the s
 
 <img src="https://github.com/chguizz/graph_based_recommendation_system/blob/main/figures/ranking_distributions_final.jpg">
 
-For the creation of this last imaeg refer to [VisualisationLinkP.ipynb](https://github.com/chguizz/graph_based_recommendation_system/blob/main/VisualisationLinkP.ipynb)
+For the creation of this last image refer to [VisualisationLinkP.ipynb](https://github.com/chguizz/graph_based_recommendation_system/blob/main/VisualisationLinkP.ipynb)
+
+For checking all hyper-paramters tried for the GNN, look at [hyper-parameters.xlsx](https://github.com/chguizz/graph_based_recommendation_system/blob/main/data/hyper-parameters.xlsx)
